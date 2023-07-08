@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+.ll{
+    height: 100px;
+    weight: 100px;   
+}
+.rr{
+    height: 150px;
+    weight: 150px;   
+}
+
+header {
+    background-color: rgba(141, 134, 93, 0.425);
+
+}
+h3 {
+    text-align: center;
+}
+img {
+    height: 300px;
+    padding: 10px;
+    weight: 300px; 
+}
+
+p {
+    font-family: Comic Sans MS
+}
+
+.dd {
+    height: 200px;
+    weight: 200px; 
+}
